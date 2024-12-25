@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 def nmapScan(tgtHost, tgtPort):
     import nmap
     nmScan = nmap.PortScanner()
